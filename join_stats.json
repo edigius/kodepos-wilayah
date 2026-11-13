@@ -1,0 +1,1437 @@
+{
+ "stats": {
+  "agree": 42055,
+  "no_official_match": 3186,
+  "disagree": 36875,
+  "gap_filled": 1646
+ },
+ "per_province": {
+  "11": {
+   "agree": 2946,
+   "no_official_match": 328,
+   "pass2": 339,
+   "disagree": 3224,
+   "gap_filled": 2
+  },
+  "12": {
+   "agree": 3114,
+   "disagree": 2664,
+   "pass2": 232,
+   "no_official_match": 331,
+   "gap_filled": 1
+  },
+  "13": {
+   "agree": 747,
+   "disagree": 467,
+   "gap_filled": 2,
+   "pass2": 74,
+   "no_official_match": 49
+  },
+  "14": {
+   "agree": 740,
+   "no_official_match": 78,
+   "disagree": 1040,
+   "gap_filled": 4,
+   "pass2": 37
+  },
+  "15": {
+   "agree": 713,
+   "no_official_match": 89,
+   "disagree": 782,
+   "pass2": 22,
+   "gap_filled": 1
+  },
+  "16": {
+   "agree": 1133,
+   "disagree": 1946,
+   "no_official_match": 179,
+   "pass2": 53,
+   "gap_filled": 1
+  },
+  "17": {
+   "agree": 609,
+   "disagree": 717,
+   "no_official_match": 183,
+   "gap_filled": 4
+  },
+  "18": {
+   "disagree": 1844,
+   "agree": 713,
+   "no_official_match": 94,
+   "pass2": 35
+  },
+  "19": {
+   "agree": 218,
+   "disagree": 161,
+   "gap_filled": 2,
+   "pass2": 38,
+   "no_official_match": 12
+  },
+  "21": {
+   "disagree": 264,
+   "agree": 133,
+   "pass2": 7,
+   "no_official_match": 20,
+   "gap_filled": 2
+  },
+  "31": {
+   "no_official_match": 6,
+   "agree": 258,
+   "disagree": 3
+  },
+  "32": {
+   "disagree": 2801,
+   "agree": 2904,
+   "pass2": 103,
+   "no_official_match": 250,
+   "gap_filled": 2
+  },
+  "33": {
+   "agree": 7046,
+   "disagree": 1462,
+   "no_official_match": 54,
+   "gap_filled": 1,
+   "pass2": 4
+  },
+  "34": {
+   "agree": 363,
+   "disagree": 72,
+   "gap_filled": 2,
+   "no_official_match": 1
+  },
+  "35": {
+   "agree": 7377,
+   "disagree": 942,
+   "no_official_match": 175,
+   "pass2": 65
+  },
+  "36": {
+   "agree": 842,
+   "no_official_match": 35,
+   "disagree": 675,
+   "pass2": 24
+  },
+  "51": {
+   "disagree": 129,
+   "no_official_match": 37,
+   "agree": 549,
+   "gap_filled": 1
+  },
+  "52": {
+   "disagree": 553,
+   "no_official_match": 40,
+   "agree": 573,
+   "pass2": 16
+  },
+  "53": {
+   "disagree": 1737,
+   "agree": 1512,
+   "no_official_match": 171,
+   "pass2": 41,
+   "gap_filled": 22
+  },
+  "61": {
+   "disagree": 819,
+   "no_official_match": 46,
+   "agree": 1280
+  },
+  "62": {
+   "agree": 796,
+   "disagree": 756,
+   "no_official_match": 19
+  },
+  "63": {
+   "no_official_match": 47,
+   "agree": 1421,
+   "disagree": 546,
+   "gap_filled": 2,
+   "pass2": 11
+  },
+  "64": {
+   "no_official_match": 30,
+   "agree": 490,
+   "disagree": 516,
+   "pass2": 9,
+   "gap_filled": 2
+  },
+  "65": {
+   "disagree": 315,
+   "agree": 160,
+   "no_official_match": 5,
+   "pass2": 3,
+   "gap_filled": 2
+  },
+  "71": {
+   "agree": 1055,
+   "disagree": 743,
+   "no_official_match": 40,
+   "gap_filled": 1,
+   "pass2": 10
+  },
+  "72": {
+   "agree": 720,
+   "disagree": 1245,
+   "no_official_match": 44,
+   "pass2": 13,
+   "gap_filled": 8
+  },
+  "73": {
+   "agree": 1826,
+   "no_official_match": 295,
+   "disagree": 937,
+   "pass2": 115,
+   "gap_filled": 1
+  },
+  "74": {
+   "disagree": 1571,
+   "no_official_match": 86,
+   "agree": 628,
+   "pass2": 4
+  },
+  "75": {
+   "agree": 54,
+   "disagree": 554,
+   "no_official_match": 119,
+   "gap_filled": 2,
+   "pass2": 19
+  },
+  "76": {
+   "disagree": 198,
+   "agree": 427,
+   "no_official_match": 22,
+   "pass2": 2,
+   "gap_filled": 1
+  },
+  "81": {
+   "disagree": 1079,
+   "agree": 89,
+   "no_official_match": 66,
+   "pass2": 19,
+   "gap_filled": 1
+  },
+  "82": {
+   "agree": 191,
+   "gap_filled": 1,
+   "disagree": 972,
+   "no_official_match": 21
+  },
+  "91": {
+   "agree": 146,
+   "no_official_match": 18,
+   "disagree": 835
+  },
+  "92": {
+   "disagree": 764,
+   "no_official_match": 57,
+   "gap_filled": 3
+  },
+  "93": {
+   "agree": 206,
+   "disagree": 396,
+   "no_official_match": 34,
+   "gap_filled": 54,
+   "pass2": 6
+  },
+  "94": {
+   "agree": 75,
+   "disagree": 968,
+   "gap_filled": 147,
+   "no_official_match": 18,
+   "pass2": 11
+  },
+  "95": {
+   "agree": 1,
+   "gap_filled": 432,
+   "disagree": 2178,
+   "no_official_match": 16,
+   "pass2": 7
+  },
+  "96": {
+   "gap_filled": 942,
+   "no_official_match": 71
+  }
+ },
+ "total_villages": 83762,
+ "official_rows": 96006,
+ "orphan_official_rows": 4929,
+ "pass2_matches": 1319,
+ "mismatch_samples": [
+  {
+   "village": {
+    "code": "11.01.08.2009",
+    "name": "Panton Luas",
+    "type": "Desa",
+    "postal_code": "23711",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23711",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.08.2010",
+    "name": "Gunung Kerambil",
+    "type": "Desa",
+    "postal_code": "23711",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23711",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.08.2011",
+    "name": "Air Berudang",
+    "type": "Desa",
+    "postal_code": "23711",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23711",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.08.2012",
+    "name": "Batu Itam",
+    "type": "Desa",
+    "postal_code": "23711",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23711",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.08.2013",
+    "name": "Panjupian",
+    "type": "Desa",
+    "postal_code": "23711",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23711",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.08.2014",
+    "name": "Lhok Rukam",
+    "type": "Desa",
+    "postal_code": "23711",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23711",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.08.2015",
+    "name": "Air Pinang",
+    "type": "Desa",
+    "postal_code": "23711",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23711",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.08.2016",
+    "name": "Lhok Bengkuang Timur",
+    "type": "Desa",
+    "postal_code": "23712",
+    "district_code": "11.01.08"
+   },
+   "district": "Tapaktuan",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23712",
+   "official_code": "23719",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2001",
+    "name": "Koto",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2002",
+    "name": "Alur Keujrun",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2003",
+    "name": "Jambo Papan",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2004",
+    "name": "Malaka",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2005",
+    "name": "Koto Indarung",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2006",
+    "name": "Siurai-Urai",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2007",
+    "name": "Kampung Sawah",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2008",
+    "name": "Kampung Padang",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2009",
+    "name": "Pulo Air",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2010",
+    "name": "Lawe Melang",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2011",
+    "name": "Mersak",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2012",
+    "name": "Simpang Dua",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.01.13.2013",
+    "name": "Simpang Tiga",
+    "type": "Desa",
+    "postal_code": "23770",
+    "district_code": "11.01.13"
+   },
+   "district": "Kluet Tengah",
+   "regency": "Kabupaten Aceh Selatan",
+   "dataset_code": "23770",
+   "official_code": "23756",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2001",
+    "name": "Bukit Merdeka",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2002",
+    "name": "Darul Aman",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2003",
+    "name": "Lawe Kesumpat",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2004",
+    "name": "Lawe Tua Gabungan",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2005",
+    "name": "Lawe Sigala II",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2006",
+    "name": "Lawe Sigala Timur",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2007",
+    "name": "Lawe Sigala Barat",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2008",
+    "name": "Suka Damai",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2009",
+    "name": "Kute Tengah",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2010",
+    "name": "Tanah Baru",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2011",
+    "name": "Kedataran Gabungan",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2012",
+    "name": "Gabungan Parsaroan",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2013",
+    "name": "Lawe Loning Gabungan",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2014",
+    "name": "Lawe Loning Aman",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2015",
+    "name": "Suka Maju",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2016",
+    "name": "Lawe Tua Makmur",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2017",
+    "name": "Lawe Tua Persatuan",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2018",
+    "name": "Lawe Serke",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  },
+  {
+   "village": {
+    "code": "11.02.02.2019",
+    "name": "Lawe Rakat",
+    "type": "Desa",
+    "postal_code": "24676",
+    "district_code": "11.02.02"
+   },
+   "district": "Lawe Sigala-Gala",
+   "regency": "Kabupaten Aceh Tenggara",
+   "dataset_code": "24676",
+   "official_code": "24673",
+   "via": "pass1"
+  }
+ ],
+ "ambiguous_samples": [],
+ "no_match_samples": [
+  {
+   "village": {
+    "code": "11.01.02.2004",
+    "name": "Gunong Pulo",
+    "type": "Desa",
+    "postal_code": "23771",
+    "district_code": "11.01.02"
+   },
+   "district": "Kluet Utara",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.02.2018",
+    "name": "Pasi Kuala Ba'u",
+    "type": "Desa",
+    "postal_code": "23771",
+    "district_code": "11.01.02"
+   },
+   "district": "Kluet Utara",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.04.2008",
+    "name": "Dalam",
+    "type": "Desa",
+    "postal_code": "23761",
+    "district_code": "11.01.04"
+   },
+   "district": "Labuhanhaji",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.07.2015",
+    "name": "Sawang Ba'u",
+    "type": "Desa",
+    "postal_code": "23753",
+    "district_code": "11.01.07"
+   },
+   "district": "Sawang",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.09.2005",
+    "name": "Teupin Tinggi",
+    "type": "Desa",
+    "postal_code": "23774",
+    "district_code": "11.01.09"
+   },
+   "district": "Trumon",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.10.2004",
+    "name": "Kampung Baru",
+    "type": "Desa",
+    "postal_code": "23755",
+    "district_code": "11.01.10"
+   },
+   "district": "Pasie Raja",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.10.2007",
+    "name": "Ladang Tuha",
+    "type": "Desa",
+    "postal_code": "23755",
+    "district_code": "11.01.10"
+   },
+   "district": "Pasie Raja",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.10.2017",
+    "name": "Gampong Baro",
+    "type": "Desa",
+    "postal_code": "23755",
+    "district_code": "11.01.10"
+   },
+   "district": "Pasie Raja",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.11.2006",
+    "name": "Beutong",
+    "type": "Desa",
+    "postal_code": "23758",
+    "district_code": "11.01.11"
+   },
+   "district": "Labuhanhaji Timur",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.12.2005",
+    "name": "Ujung Padang",
+    "type": "Desa",
+    "postal_code": "23757",
+    "district_code": "11.01.12"
+   },
+   "district": "Labuhanhaji Barat",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.01.12.2008",
+    "name": "Pulo Ie",
+    "type": "Desa",
+    "postal_code": "23757",
+    "district_code": "11.01.12"
+   },
+   "district": "Labuhanhaji Barat",
+   "regency": "Kabupaten Aceh Selatan"
+  },
+  {
+   "village": {
+    "code": "11.02.01.2023",
+    "name": "Pulo Ndadap",
+    "type": "Desa",
+    "postal_code": "24661",
+    "district_code": "11.02.01"
+   },
+   "district": "Lawe Alas",
+   "regency": "Kabupaten Aceh Tenggara"
+  },
+  {
+   "village": {
+    "code": "11.02.03.2002",
+    "name": "Kuta Buluh",
+    "type": "Desa",
+    "postal_code": "24672",
+    "district_code": "11.02.03"
+   },
+   "district": "Bambel",
+   "regency": "Kabupaten Aceh Tenggara"
+  },
+  {
+   "village": {
+    "code": "11.02.03.2038",
+    "name": "Terutung Payung Gabungan",
+    "type": "Desa",
+    "postal_code": "24672",
+    "district_code": "11.02.03"
+   },
+   "district": "Bambel",
+   "regency": "Kabupaten Aceh Tenggara"
+  },
+  {
+   "village": {
+    "code": "11.02.04.2023",
+    "name": "Alas Marancar",
+    "type": "Desa",
+    "postal_code": "24664",
+    "district_code": "11.02.04"
+   },
+   "district": "Babussalam",
+   "regency": "Kabupaten Aceh Tenggara"
+  },
+  {
+   "village": {
+    "code": "11.02.06.2006",
+    "name": "Lawe Perbunga",
+    "type": "Desa",
+    "postal_code": "24673",
+    "district_code": "11.02.06"
+   },
+   "district": "Babul Makmur",
+   "regency": "Kabupaten Aceh Tenggara"
+  },
+  {
+   "village": {
+    "code": "11.02.08.2026",
+    "name": "Pangguh",
+    "type": "Desa",
+    "postal_code": "24665",
+    "district_code": "11.02.08"
+   },
+   "district": "Lawe Bulan",
+   "regency": "Kabupaten Aceh Tenggara"
+  },
+  {
+   "village": {
+    "code": "11.03.03.2009",
+    "name": "Meunasah Pu'uk",
+    "type": "Desa",
+    "postal_code": "24442",
+    "district_code": "11.03.03"
+   },
+   "district": "Idi Rayeuk",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.03.2065",
+    "name": "SeuneubokTeungoh P.Puntong",
+    "type": "Desa",
+    "postal_code": "24442",
+    "district_code": "11.03.03"
+   },
+   "district": "Idi Rayeuk",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.10.2003",
+    "name": "Seuneubok Baro",
+    "type": "Desa",
+    "postal_code": "24441",
+    "district_code": "11.03.10"
+   },
+   "district": "Ranto Peureulak",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.10.2004",
+    "name": "Pulo Blang",
+    "type": "Desa",
+    "postal_code": "24441",
+    "district_code": "11.03.10"
+   },
+   "district": "Ranto Peureulak",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.10.2006",
+    "name": "Seuneubok Dalam",
+    "type": "Desa",
+    "postal_code": "24441",
+    "district_code": "11.03.10"
+   },
+   "district": "Ranto Peureulak",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.10.2007",
+    "name": "Seuleumak Muda",
+    "type": "Desa",
+    "postal_code": "24441",
+    "district_code": "11.03.10"
+   },
+   "district": "Ranto Peureulak",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.10.2011",
+    "name": "Buket Pala",
+    "type": "Desa",
+    "postal_code": "24441",
+    "district_code": "11.03.10"
+   },
+   "district": "Ranto Peureulak",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.10.2021",
+    "name": "Alue Batee",
+    "type": "Desa",
+    "postal_code": "24441",
+    "district_code": "11.03.10"
+   },
+   "district": "Ranto Peureulak",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.10.2022",
+    "name": "Beurandang",
+    "type": "Desa",
+    "postal_code": "24441",
+    "district_code": "11.03.10"
+   },
+   "district": "Ranto Peureulak",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.03.14.2013",
+    "name": "Buket Pu'uk",
+    "type": "Desa",
+    "postal_code": "24443",
+    "district_code": "11.03.14"
+   },
+   "district": "Idi Tunong",
+   "regency": "Kabupaten Aceh Timur"
+  },
+  {
+   "village": {
+    "code": "11.04.02.2007",
+    "name": "Pepayungen Angkup",
+    "type": "Desa",
+    "postal_code": "24569",
+    "district_code": "11.04.02"
+   },
+   "district": "Silih Nara",
+   "regency": "Kabupaten Aceh Tengah"
+  },
+  {
+   "village": {
+    "code": "11.04.02.2013",
+    "name": "Wihni Bakong",
+    "type": "Desa",
+    "postal_code": "24569",
+    "district_code": "11.04.02"
+   },
+   "district": "Silih Nara",
+   "regency": "Kabupaten Aceh Tengah"
+  },
+  {
+   "village": {
+    "code": "11.04.02.2029",
+    "name": "Sanehen",
+    "type": "Desa",
+    "postal_code": "24569",
+    "district_code": "11.04.02"
+   },
+   "district": "Silih Nara",
+   "regency": "Kabupaten Aceh Tengah"
+  }
+ ],
+ "orphan_samples": [
+  {
+   "key": [
+    "SAWANG BAU",
+    "SAWANG",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23753",
+    "desa": "Sawang Bau",
+    "kecamatan": "Sawang",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "PAYA ATEUK",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Paya Ateuk",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "LHOK SIALANG RAYEUK",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Lhok Sialang Rayeuk",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "PULO IE II",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Pulo Ie II",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "UJUNG PADANG RASIAN",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Ujung Padang Rasian",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "PANTE RAJA",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Pante Raja",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "UJUNG PADANG ASAHAN",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Ujung Padang Asahan",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "LADANG TEUNGOH",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Ladang Teungoh",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "PANTON BILI",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Panton Bili",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "BARU",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Kampung Baru",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "PASIE RASIAN",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Pasie Rasian",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "PUCOK KRUENG",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Pucok Krueng",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "SEUNEUBOK",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Seuneubok",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "IE MIRAH",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Ie Mirah",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "KRUENG KALEE",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Krueng Kalee",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "UJONG BATEE",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Ujong Batee",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "TEUPIN GAJAH",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Teupin Gajah",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "SILOLO",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Silolo",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "LHOK SIALANG CUT",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Lhok Sialang Cut",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  },
+  {
+   "key": [
+    "LADANG TUHA",
+    "PASI RAJA",
+    "ACEH SELATAN"
+   ],
+   "row": {
+    "kodepos": "23755",
+    "desa": "Ladang Tuha",
+    "kecamatan": "Pasi Raja",
+    "kab": "KAB. ACEH SELATAN",
+    "prov": "ACEH"
+   }
+  }
+ ],
+ "generated": "2026-11-13",
+ "method": "Pos Indonesia official lookup harvested per regency; pass 1 exact normalized match on village+district+regency, pass 2 unique-village-in-regency + district similarity >= 0.75"
+}
