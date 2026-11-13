@@ -1,0 +1,7 @@
+[42/257] 14.08 Kabupaten Siak q='KAB. Siak' FAILED: query 'KAB. Siak' failed twice: IncompleteRead(0 bytes read)
+[44/257] 14.72 Kota Dumai q='KOTA Dumai' FAILED: query 'KOTA Dumai' failed twice: Remote end closed connection without response
+[46/257] 15.04 Kabupaten Batanghari q='KAB. Batanghari' FAILED: query 'KAB. Batanghari' failed twice: IncompleteRead(0 bytes read)
+[47/257] 15.06 Kabupaten Tanjung Jabung Barat q='KAB. Tanjung Jabung Barat' FAILED: query 'KAB. Tanjung Jabung Barat' failed twice: IncompleteRead(0 bytes read)
+[48/257] 15.08 Kabupaten Bungo q='KAB. Bungo' FAILED: query 'KAB. Bungo' failed twice: IncompleteRead(0 bytes read)
+[50/257] 16.01 Kabupaten Ogan Komering Ulu q='KAB. Ogan Komering Ulu' FAILED: query 'KAB. Ogan Komering Ulu' failed twice: IncompleteRead(0 bytes read)
+[51/257] 16.03 Kabupaten Muara Enim q='KAB. Muara Enim' FAILED: query 'KAB. Muara Enim' failed twice: IncompleteRead(0 bytes read)

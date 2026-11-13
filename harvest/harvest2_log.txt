@@ -1,0 +1,5 @@
+[88/514] 15.01 Kabupaten Kerinci FAILED: query 'KAB. Kerinci' failed 3x: IncompleteRead(40236 bytes read)
+[90/514] 15.03 Kabupaten Sarolangun FAILED: query 'KAB. Sarolangun' failed 3x: IncompleteRead(27949 bytes read)
+[95/514] 15.08 Kabupaten Bungo FAILED: query 'KAB. Bungo' failed 3x: IncompleteRead(23853 bytes read)
+[99/514] 16.01 Kabupaten Ogan Komering Ulu FAILED: query 'KAB. Ogan Komering Ulu' failed 3x: IncompleteRead(118060 bytes read)
+[101/514] 16.03 Kabupaten Muara Enim FAILED: query 'KAB. Muara Enim' failed 3x: IncompleteRead(44332 bytes read)

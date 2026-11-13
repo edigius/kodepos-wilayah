@@ -1,0 +1,6 @@
+[44/257] 15.01 Kabupaten Kerinci q='KAB. Kerinci' FAILED: query 'KAB. Kerinci' failed twice: IncompleteRead(0 bytes read)
+[45/257] 15.03 Kabupaten Sarolangun q='KAB. Sarolangun' FAILED: query 'KAB. Sarolangun' failed twice: IncompleteRead(28085 bytes read)
+[47/257] 15.07 Kabupaten Tanjung Jabung Timur q='KAB. Tanjung Jabung Timur' FAILED: query 'KAB. Tanjung Jabung Timur' failed twice: IncompleteRead(0 bytes read)
+[48/257] 15.09 Kabupaten Tebo q='KAB. Tebo' FAILED: query 'KAB. Tebo' failed twice: IncompleteRead(0 bytes read)
+[50/257] 16.02 Kabupaten Ogan Komering Ilir: 327 rows (done=46)
+[51/257] 16.04 Kabupaten Lahat q='KAB. Lahat' FAILED: query 'KAB. Lahat' failed twice: IncompleteRead(77236 bytes read)

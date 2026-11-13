@@ -1,0 +1,210 @@
+[1/210] 12.74 Kota Tanjungbalai: 0 rows via district-fallback-curl
+[2/210] 15.03 Kabupaten Sarolangun: 158 rows via regency-curl
+[3/210] 16.01 Kabupaten Ogan Komering Ulu: 728 rows via regency-curl
+[4/210] 16.04 Kabupaten Lahat: 378 rows via regency-curl
+[5/210] 16.06 Kabupaten Musi Banyuasin: 242 rows via regency-curl
+[6/210] 16.08 Kabupaten Ogan Komering Ulu Timur: 728 rows via regency-curl
+[7/210] 16.10 Kabupaten Ogan Ilir: 241 rows via regency-curl
+[8/210] 16.12 Kabupaten Penukal Abab Lematang Ilir: 71 rows via regency-curl
+[9/210] 16.71 Kota Palembang: 107 rows via regency-curl
+[10/210] 16.73 Kota Lubuk Linggau: 72 rows via regency-curl
+[11/210] 17.01 Kabupaten Bengkulu Selatan: 158 rows via regency-curl
+[12/210] 17.03 Kabupaten Bengkulu Utara: 220 rows via regency-curl
+[13/210] 17.05 Kabupaten Seluma: 202 rows via regency-curl
+[14/210] 17.07 Kabupaten Lebong: 104 rows via regency-curl
+[15/210] 17.09 Kabupaten Bengkulu Tengah: 143 rows via regency-curl
+[16/210] 18.01 Kabupaten Lampung Selatan: 260 rows via regency-curl
+[17/210] 18.03 Kabupaten Lampung Utara: 247 rows via regency-curl
+[18/210] 18.05 Kabupaten Tulang Bawang: 254 rows via regency-curl
+[19/210] 18.07 Kabupaten Lampung Timur: 264 rows via regency-curl
+[20/210] 18.09 Kabupaten Pesawaran: 148 rows via regency-curl
+[21/210] 18.11 Kabupaten Mesuji: 105 rows via regency-curl
+[22/210] 18.13 Kabupaten Pesisir Barat: 118 rows via regency-curl
+[23/210] 18.72 Kota Metro: 22 rows via regency-curl
+[24/210] 19.02 Kabupaten Belitung: 88 rows via regency-curl
+[25/210] 19.04 Kabupaten Bangka Tengah: 63 rows via regency-curl
+[26/210] 19.06 Kabupaten Belitung Timur: 39 rows via regency-curl
+[27/210] 21.01 Kabupaten Bintan: 51 rows via regency-curl
+[28/210] 21.03 Kabupaten Natuna: 77 rows via regency-curl
+[29/210] 21.05 Kabupaten Kepulauan Anambas: 54 rows via regency-curl
+[30/210] 21.72 Kota Tanjung Pinang: 18 rows via regency-curl
+[31/210] 31.71 Kota Administrasi Jakarta Pusat: 44 rows via regency-curl
+[32/210] 31.73 Kota Administrasi Jakarta Barat: 56 rows via regency-curl
+[33/210] 31.75 Kota Administrasi Jakarta Timur: 65 rows via regency-curl
+[34/210] 32.02 Kabupaten Sukabumi: 386 rows via regency-curl
+[35/210] 32.04 Kabupaten Bandung: 445 rows via regency-curl
+[36/210] 32.06 Kabupaten Tasikmalaya: 351 rows via regency-curl
+[37/210] 32.08 Kabupaten Kuningan: 376 rows via regency-curl
+[38/210] 32.10 Kabupaten Majalengka: 343 rows via regency-curl
+[39/210] 32.12 Kabupaten Indramayu: 317 rows via regency-curl
+[40/210] 32.14 Kabupaten Purwakarta: 192 rows via regency-curl
+[41/210] 32.16 Kabupaten Bekasi: 187 rows via regency-curl
+[42/210] 32.18 Kabupaten Pangandaran: 93 rows via regency-curl
+[43/210] 32.72 Kota Sukabumi: 33 rows via regency-curl
+[44/210] 32.74 Kota Cirebon: 22 rows via regency-curl
+[45/210] 32.76 Kota Depok: 63 rows via regency-curl
+[46/210] 32.78 Kota Tasikmalaya: 69 rows via regency-curl
+[47/210] 33.01 Kabupaten Cilacap: 284 rows via regency-curl
+[48/210] 33.03 Kabupaten Purbalingga: 239 rows via regency-curl
+[49/210] 33.05 Kabupaten Kebumen: 460 rows via regency-curl
+[50/210] 33.07 Kabupaten Wonosobo: 265 rows via regency-curl
+[51/210] 33.09 Kabupaten Boyolali: 267 rows via regency-curl
+[52/210] 33.11 Kabupaten Sukoharjo: 167 rows via regency-curl
+[53/210] 33.13 Kabupaten Karanganyar: 177 rows via regency-curl
+[54/210] 33.15 Kabupaten Grobogan: 280 rows via regency-curl
+[55/210] 33.17 Kabupaten Rembang: 294 rows via regency-curl
+[56/210] 33.19 Kabupaten Kudus: 132 rows via regency-curl
+[57/210] 33.21 Kabupaten Demak: 249 rows via regency-curl
+[58/210] 33.23 Kabupaten Temanggung: 289 rows via regency-curl
+[59/210] 33.25 Kabupaten Batang: 372 rows via regency-curl
+[60/210] 33.27 Kabupaten Pemalang: 223 rows via regency-curl
+[61/210] 33.29 Kabupaten Brebes: 297 rows via regency-curl
+[62/210] 33.72 Kota Surakarta: 54 rows via regency-curl
+[63/210] 33.74 Kota Semarang: 177 rows via regency-curl
+[64/210] 33.76 Kota Tegal: 27 rows via regency-curl
+[65/210] 34.02 Kabupaten Bantul: 75 rows via regency-curl
+[66/210] 34.04 Kabupaten Sleman: 86 rows via regency-curl
+[67/210] 35.01 Kabupaten Pacitan: 172 rows via regency-curl
+[68/210] 35.03 Kabupaten Trenggalek: 157 rows via regency-curl
+[69/210] 35.05 Kabupaten Blitar: 248 rows via regency-curl
+[70/210] 35.07 Kabupaten Malang: 390 rows via regency-curl
+[71/210] 35.09 Kabupaten Jember: 248 rows via regency-curl
+[72/210] 35.11 Kabupaten Bondowoso: 219 rows via regency-curl
+[73/210] 35.13 Kabupaten Probolinggo: 330 rows via regency-curl
+[74/210] 35.15 Kabupaten Sidoarjo: 346 rows via regency-curl
+[75/210] 35.17 Kabupaten Jombang: 306 rows via regency-curl
+[76/210] 35.19 Kabupaten Madiun: 206 rows via regency-curl
+[77/210] 35.21 Kabupaten Ngawi: 217 rows via regency-curl
+[78/210] 35.23 Kabupaten Tuban: 328 rows via regency-curl
+[79/210] 35.25 Kabupaten Gresik: 356 rows via regency-curl
+[80/210] 35.27 Kabupaten Sampang: 186 rows via regency-curl
+[81/210] 35.29 Kabupaten Sumenep: 334 rows via regency-curl
+[82/210] 35.72 Kota Blitar: 21 rows via regency-curl
+[83/210] 35.74 Kota Probolinggo: 29 rows via regency-curl
+[84/210] 35.76 Kota Mojokerto: 18 rows via regency-curl
+[85/210] 35.78 Kota Surabaya: 153 rows via regency-curl
+[86/210] 36.01 Kabupaten Pandeglang: 339 rows via regency-curl
+[87/210] 36.03 Kabupaten Tangerang: 274 rows via regency-curl
+[88/210] 36.71 Kota Tangerang: 158 rows via regency-curl
+[89/210] 36.73 Kota Serang: 67 rows via regency-curl
+[90/210] 51.01 Kabupaten Jembrana: 51 rows via regency-curl
+[91/210] 51.03 Kabupaten Badung: 62 rows via regency-curl
+[92/210] 51.05 Kabupaten Klungkung: 59 rows via regency-curl
+[93/210] 51.07 Kabupaten Karangasem: 78 rows via regency-curl
+[94/210] 51.71 Kota Denpasar: 43 rows via regency-curl
+[95/210] 52.02 Kabupaten Lombok Tengah: 154 rows via regency-curl
+[96/210] 52.04 Kabupaten Sumbawa: 230 rows via regency-curl
+[97/210] 52.06 Kabupaten Bima: 191 rows via regency-curl
+[98/210] 52.08 Kabupaten Lombok Utara: 43 rows via regency-curl
+[99/210] 52.72 Kota Bima: 41 rows via regency-curl
+[100/210] 53.02 Kabupaten Timor Tengah Selatan: 265 rows via district-fallback-curl
+[101/210] 53.04 Kabupaten Belu: 81 rows via regency-curl
+[102/210] 53.06 Kabupaten Flores Timur: 250 rows via regency-curl
+[103/210] 53.08 Kabupaten Ende: 278 rows via regency-curl
+[104/210] 53.10 Kabupaten Manggarai: 516 rows via regency-curl
+[105/210] 53.12 Kabupaten Sumba Barat: 249 rows via regency-curl
+[106/210] 53.14 Kabupaten Rote Ndao: 119 rows via regency-curl
+[107/210] 53.16 Kabupaten Nagekeo: 113 rows via regency-curl
+[108/210] 53.18 Kabupaten Sumba Barat Daya: 175 rows via regency-curl
+[109/210] 53.20 Kabupaten Sabu Raijua: 63 rows via regency-curl
+[110/210] 53.71 Kota Kupang: 51 rows via regency-curl
+[111/210] 61.02 Kabupaten Mempawah: 67 rows via regency-curl
+[112/210] 61.04 Kabupaten Ketapang: 262 rows via regency-curl
+[113/210] 61.06 Kabupaten Kapuas Hulu: 282 rows via regency-curl
+[114/210] 61.08 Kabupaten Landak: 156 rows via regency-curl
+[115/210] 61.10 Kabupaten Melawi: 169 rows via regency-curl
+[116/210] 61.12 Kabupaten Kubu Raya: 123 rows via regency-curl
+[117/210] 61.72 Kota Singkawang: 26 rows via regency-curl
+[118/210] 62.02 Kabupaten Kotawaringin Timur: 185 rows via regency-curl
+[119/210] 62.04 Kabupaten Barito Selatan: 93 rows via regency-curl
+[120/210] 62.06 Kabupaten Katingan: 161 rows via regency-curl
+[121/210] 62.08 Kabupaten Sukamara: 32 rows via regency-curl
+[122/210] 62.10 Kabupaten Gunung Mas: 127 rows via regency-curl
+[123/210] 62.12 Kabupaten Murung Raya: 125 rows via regency-curl
+[124/210] 62.71 Kota Palangkaraya: 30 rows via regency-curl
+[125/210] 63.02 Kabupaten Kotabaru: 202 rows via regency-curl
+[126/210] 63.04 Kabupaten Barito Kuala: 201 rows via regency-curl
+[127/210] 63.06 Kabupaten Hulu Sungai Selatan: 148 rows via regency-curl
+[128/210] 63.08 Kabupaten Hulu Sungai Utara: 219 rows via regency-curl
+[129/210] 63.10 Kabupaten Tanah Bumbu: 157 rows via regency-curl
+[130/210] 63.71 Kota Banjarmasin: 52 rows via regency-curl
+[131/210] 64.01 Kabupaten Paser: 144 rows via regency-curl
+[132/210] 64.03 Kabupaten Berau: 110 rows via regency-curl
+[133/210] 64.08 Kabupaten Kutai Timur: 141 rows via regency-curl
+[134/210] 64.11 Kabupaten Mahakam Ulu: 50 rows via regency-curl
+[135/210] 64.72 Kota Samarinda: 59 rows via regency-curl
+[136/210] 65.01 Kabupaten Bulungan: 81 rows via regency-curl
+[137/210] 65.03 Kabupaten Nunukan: 240 rows via regency-curl
+[138/210] 65.71 Kota Tarakan: 20 rows via regency-curl
+[139/210] 71.02 Kabupaten Minahasa: 722 rows via regency-curl
+[140/210] 71.04 Kabupaten Kepulauan Talaud: 153 rows via regency-curl
+[141/210] 71.06 Kabupaten Minahasa Utara: 131 rows via regency-curl
+[142/210] 71.08 Kabupaten Bolaang Mongondow Utara: 471 rows via regency-curl
+[143/210] 71.10 Kabupaten Bolaang Mongondow Timur: 471 rows via regency-curl
+[144/210] 71.71 Kota Manado: 87 rows via regency-curl
+[145/210] 71.73 Kota Tomohon: 44 rows via regency-curl
+[146/210] 72.01 Kabupaten Banggai: 547 rows via regency-curl
+[147/210] 72.03 Kabupaten Donggala: 167 rows via regency-curl
+[148/210] 72.05 Kabupaten Buol: 115 rows via regency-curl
+[149/210] 72.07 Kabupaten Banggai Kepulauan: 144 rows via regency-curl
+[150/210] 72.09 Kabupaten Tojo Una Una: 146 rows via regency-curl
+[151/210] 72.11 Kabupaten Banggai Laut: 66 rows via regency-curl
+[152/210] 72.71 Kota Palu: 46 rows via regency-curl
+[153/210] 73.02 Kabupaten Bulukumba: 136 rows via regency-curl
+[154/210] 73.04 Kabupaten Jeneponto: 113 rows via regency-curl
+[155/210] 73.06 Kabupaten Gowa: 167 rows via regency-curl
+[156/210] 73.08 Kabupaten Bone: 537 rows via regency-curl
+[157/210] 73.10 Kabupaten Pangkajene dan Kepulauan: 0 rows via district-fallback-curl
+[158/210] 73.12 Kabupaten Soppeng: 70 rows via regency-curl
+[159/210] 73.14 Kabupaten Sidenreng Rappang: 106 rows via regency-curl
+[160/210] 73.16 Kabupaten Enrekang: 129 rows via regency-curl
+[161/210] 73.18 Kabupaten Tana Toraja: 159 rows via regency-curl
+[162/210] 73.24 Kabupaten Luwu Timur: 127 rows via regency-curl
+[163/210] 73.71 Kota Makassar: 153 rows via regency-curl
+[164/210] 73.73 Kota Palopo: 48 rows via regency-curl
+[165/210] 74.02 Kabupaten Konawe: 966 rows via regency-curl
+[166/210] 74.04 Kabupaten Buton: 332 rows via regency-curl
+[167/210] 74.06 Kabupaten Bombana: 143 rows via regency-curl
+[168/210] 74.08 Kabupaten Kolaka Utara: 133 rows via regency-curl
+[169/210] 74.10 Kabupaten Buton Utara: 90 rows via regency-curl
+[170/210] 74.12 Kabupaten Konawe Kepulauan: 96 rows via regency-curl
+[171/210] 74.14 Kabupaten Buton Tengah: 77 rows via regency-curl
+[172/210] 74.71 Kota Kendari: 65 rows via regency-curl
+[173/210] 75.01 Kabupaten Gorontalo: 328 rows via regency-curl
+[174/210] 75.03 Kabupaten Bone Bolango: 165 rows via regency-curl
+[175/210] 75.05 Kabupaten Gorontalo Utara: 123 rows via regency-curl
+[176/210] 76.01 Kabupaten Pasangkayu: 63 rows via regency-curl
+[177/210] 76.03 Kabupaten Mamasa: 181 rows via regency-curl
+[178/210] 76.05 Kabupaten Majene: 82 rows via regency-curl
+[179/210] 81.01 Kabupaten Maluku Tengah: 192 rows via regency-curl
+[180/210] 81.03 Kabupaten Kepulauan Tanimbar: 82 rows via regency-curl
+[181/210] 81.05 Kabupaten Seram Bagian Timur: 198 rows via regency-curl
+[182/210] 81.07 Kabupaten Kepulauan Aru: 119 rows via regency-curl
+[183/210] 81.09 Kabupaten Buru Selatan: 81 rows via regency-curl
+[184/210] 81.72 Kota Tual: 30 rows via regency-curl
+[185/210] 82.02 Kabupaten Halmahera Tengah: 61 rows via regency-curl
+[186/210] 82.04 Kabupaten Halmahera Selatan: 249 rows via regency-curl
+[187/210] 82.06 Kabupaten Halmahera Timur: 102 rows via regency-curl
+[188/210] 82.08 Kabupaten Pulau Taliabu: 71 rows via regency-curl
+[189/210] 82.72 Kota Tidore Kepulauan: 89 rows via regency-curl
+[190/210] 91.05 Kabupaten Kepulauan Yapen: 165 rows via regency-curl
+[191/210] 91.10 Kabupaten Sarmi: 94 rows via regency-curl
+[192/210] 91.15 Kabupaten Waropen: 100 rows via regency-curl
+[193/210] 91.20 Kabupaten Mamberamo Raya: 60 rows via regency-curl
+[194/210] 92.02 Kabupaten Manokwari: 460 rows via regency-curl
+[195/210] 92.06 Kabupaten Teluk Bintuni: 234 rows via regency-curl
+[196/210] 92.08 Kabupaten Kaimana: 172 rows via regency-curl
+[197/210] 92.12 Kabupaten Pegunungan Arfak: 332 rows via regency-curl
+[198/210] 93.02 Kabupaten Boven Digoel: 112 rows via regency-curl
+[199/210] 93.04 Kabupaten Asmat: 224 rows via regency-curl
+[200/210] 94.02 Kabupaten Puncak Jaya: 305 rows via regency-curl
+[201/210] 94.04 Kabupaten Mimika: 152 rows via regency-curl
+[202/210] 94.06 Kabupaten Dogiyai: 79 rows via regency-curl
+[203/210] 94.08 Kabupaten Deiyai: 67 rows via regency-curl
+[204/210] 95.02 Kabupaten Pegunungan Bintang: 277 rows via regency-curl
+[205/210] 95.04 Kabupaten Tolikara: 545 rows via regency-curl
+[206/210] 95.06 Kabupaten Yalimo: 300 rows via regency-curl
+[207/210] 95.08 Kabupaten Nduga: 248 rows via regency-curl
+[208/210] 96.02 Kabupaten Sorong Selatan: 246 rows via regency-curl
+[209/210] 96.04 Kabupaten Tambrauw: 432 rows via regency-curl
+[210/210] 96.71 Kota Sorong: 82 rows via regency-curl
