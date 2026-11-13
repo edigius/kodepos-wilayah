@@ -9,7 +9,8 @@ import json, glob, os, re, sys, unicodedata, collections, html as htmlmod
 
 # ---- Single place for the working brand (rename = change here + regenerate) ----
 BRAND = "Kode Pos & Wilayah"
-BASE_URL = "https://kodepos-wilayah.pages.dev"
+BASE_URL = "https://cekkodepos.my.id"
+ADSENSE_HEAD = "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1022633424055636\" crossorigin=\"anonymous\"></script>"
 VERIFY_DATE = "13 November 2026"
 RETRIEVAL_DATE = "13 November 2026"
 YEAR = "2026"
@@ -189,6 +190,7 @@ def shell(title, desc, path, body, jsonld=None, extra_head=""):
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/styles.css">
+{ADSENSE_HEAD}
 {ld}{extra_head}</head>
 <body>
 <header class="site-header">
