@@ -1,5 +1,7 @@
 # Kode Pos & Wilayah
 
+> **Live Demo & Pencarian Interaktif:** [https://cekkodepos.my.id](https://cekkodepos.my.id)
+
 Direktori kode pos seluruh Indonesia: 38 provinsi, 514 kabupaten/kota,
 7.285 kecamatan, dan 83.762 desa/kelurahan.
 
@@ -40,6 +42,9 @@ Dataset pembanding tidak disertakan di repo ini; lihat `crosscheck.py`.
 - `wilayah-indonesia/` — dataset struktur wilayah (tanpa `.git`).
 - `assets/` — `styles.css`, `search.js`, dan `favicon.svg` yang disalin
   ke hasil bangkitan (tidak dihasilkan oleh `generate.py`).
+- `DATA.md` — dokumentasi berkas JSON statis yang dilayani situs
+  (`/data/wilayah/` dan `/data/kodepos/`), gratis dipakai dengan
+  atribusi; bukan API.
 
 Halaman HTML hasil bangkitan tidak disimpan di repo ini; itu keluaran
 build yang di-deploy langsung ke Cloudflare Pages.
